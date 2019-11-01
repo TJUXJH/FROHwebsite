@@ -13,8 +13,8 @@
 
 
 
-| **2nd**                                                      | **2019.11.01** | **19:00-22:00** | [opening ceremony](https://github.com/TJUXJH/FROHwebsite/blob/master/ppt/20191011_Agenda_first_conference.ppt) |
+| **2nd**                                                      | **2019.11.01** | **19:00-22:00** | [opening ceremony](https://github.com/TJUXJH/FROHwebsite/blob/master/ppt/20191101_Agenda_2nd_conference.ppt) |
 | ------------------------------------------------------------ | -------------- | --------------- | ------------------------------------------------------------ |
-| 再生核空间                                                   | Faker          | **19:00-20:00** | [20191011_RESNET.pptx](https://github.com/TJUXJH/FROHwebsite/blob/master/ppt/20191011_RESNET.pptx) |
-| [LSTM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf) | xiaoyaozi      | **20:00-21:00** | [20191011_How_to_understand_RNN.pptx](https://github.com/TJUXJH/FROHwebsite/blob/master/ppt/20191011_How_to_understand_RNN.pptx) |
+| 再生核空间                                                   | Faker          | **19:00-20:00** | [20191101_U_LSTM.pptx](https://github.com/TJUXJH/FROHwebsite/blob/master/ppt/20191101_U_LSTM.pptx) |
+| [LSTM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf) | xiaoyaozi      | **20:00-21:00** | [20191101_RPHS.pptx](https://github.com/TJUXJH/FROHwebsite/blob/master/ppt/20191101_RPHS.pptx) |
 
